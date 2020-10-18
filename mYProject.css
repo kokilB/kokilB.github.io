@@ -1,0 +1,14 @@
+   .para{  background: lightgrey;  margin-top: 20px;
+  margin-bottom: 200px;
+  margin-right: 200px;
+  margin-left: 200px;}
+   .mid{ background: lightgrey;  margin-top: 20px; border: 5px solid Violet;
+  margin-bottom: 200px;
+  margin-right: 200px;
+  margin-left: 200px;}
+  .p{text-align: left;}
+      
+      a:link { text-decoration: none;}
+      a:hover {color: hotpink; text-decoration: underline;}
+
+      
